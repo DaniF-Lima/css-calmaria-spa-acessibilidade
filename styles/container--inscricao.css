@@ -45,9 +45,9 @@
     border: none;
     outline: none;
     width: 65%;
-    margin-left: 32px;
+    margin-left: 3.2rem;
     font-family: "Montserrat", sans-serif;
-    font-size: 20px;
+    font-size: 2.0rem;
     color: #0C0421;
 }
 
@@ -55,9 +55,9 @@
     width: 35%;
     color: white;
     background: var(--azul-botao);
-    border-radius: 0 65px 65px 0;
+    border-radius: 0 6.5rem 6.5rem 0;
     border: none;
-    font-size: 24px;
+    font-size: 2.4rem;
     font-weight: 700;
     font-family: 'Montserrat';
     display: flex;
@@ -89,17 +89,17 @@
     }
 
     .container__incricao .container__incricao--form-titulo {
-        font-size: 31px;
+        font-size: 3.1rem;
         font-family: Krona One;
         font-weight: 400;
     }
 
     .container__incricao--form-texto {
-        font-size: 13px;
+        font-size: 1.3rem;
     }
 
     .container__incricao--form-input {
-        width: 368px;
+        width: 36.8rem;
     }
 
     .container__incricao--tablet {
@@ -113,9 +113,9 @@
       /* Seção inscrição */
 
   .container__incricao--form-input {
-    width: 790px;
-    height: 65px;
-    row-gap: 24px;
+    width: 79.0rem;
+    height: 6.5rem;
+    row-gap: 2.4rem;
   }
 
 }
